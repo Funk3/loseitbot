@@ -27,7 +27,8 @@ commands = {
     ,'visualbmi' : 'https://loseitirc.github.io/visualbmi/'
     ,'water' : 'http://web.archive.org/web/20131114201153/http://www.scientificamerican.com/article.cfm?id=eight-glasses-water-per-day'
     ,'whatwillilooklike' : 'http://visualbmi.com/'
-}
+    ,'macro' : 'Protein and Carbohydrates are 4 calories per gram. Alcohol is 7 calories per gram, Fat is 9 calories. http://bit.ly/29JPMRm'
+} 
 
 patterns = {
     'NSV\?': 'NSV means non-scale victory.  See https://www.reddit.com/r/loseit/wiki/faq'
